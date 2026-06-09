@@ -1,39 +1,60 @@
-🚀 MERN Stack Developer | React.js | Node.js | MongoDB | AI-Powered Applications
+# 🚀 MERN Stack Developer | React.js | Node.js | MongoDB | AI-Powered Applications
 
-Passionate about building scalable web applications and AI-powered solutions. Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, and cloud deployment. Currently working as a Software Development Engineer (SDE) at URS Tech and serving as Web Master at IEEE Student Branch MUIT.
+Passionate about building scalable full-stack web applications and AI-powered solutions. Experienced in developing modern web platforms using the MERN stack, integrating AI services, and creating efficient user-centric applications. Currently serving as Web Master at IEEE Student Branch MUIT and actively exploring advanced backend systems, cloud technologies, and AI integrations.
 
-* 🔭 I’m currently working on Full-Stack MERN Applications and AI-powered Web Solutions
-* 🌱 I’m currently learning System Design, Next.js, and Advanced Backend Architecture
-* 👯 I’m looking to collaborate on Open Source, MERN Stack, and AI Projects
-* 💬 Ask me about React.js, Node.js, MongoDB, Express.js, REST APIs, Authentication, and Full-Stack Development
-* 📫 How to reach me: [chaurasiyavinod96@gmail.com](mailto:chaurasiyavinod96@gmail.com)
-* 🌐 Portfolio: [ayushchaurasiyaportfolio.vercel.app](https://ayushchaurasiyaportfolio.vercel.app/)
-* 💼 LinkedIn: [Ayush Chaurasiya](https://www.linkedin.com/in/ayush-chaurasiya96/)
-* ⚡ Fun fact: I enjoy building both AI-powered software solutions and robotics projects.
+* 🔭 Currently building Full-Stack MERN Applications and AI-Powered Web Solutions
+* 🌱 Currently learning System Design, Next.js, Advanced Backend Architecture, and Cloud Technologies
+* 👯 Looking to collaborate on Open Source, MERN Stack, AI, and Innovative Software Projects
+* 💬 Ask me about React.js, Node.js, Express.js, MongoDB, REST APIs, Authentication, State Management, and Full-Stack Development
+* 📫 Reach me at: **[chaurasiyavinod96@gmail.com](mailto:chaurasiyavinod96@gmail.com)**
+* 🌐 Portfolio: **ayushchaurasiyaportfolio.vercel.app**
+* 💼 LinkedIn: **Ayush Chaurasiya**
+* ⚡ Fun Fact: I enjoy building both AI-powered software solutions and robotics projects.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap, TypeScript
+### Frontend
 
-**Backend:** Node.js, Express.js
+React.js • Next.js • Redux • Zustand • Tailwind CSS • Bootstrap • TypeScript
 
-**Database:** MongoDB, Mongoose
+### Backend
 
-**Tools:** Git, GitHub, Cloudinary, Zustand
+Node.js • Express.js • REST APIs • JWT Authentication
 
-**AI & Integrations:** Gemini API, OpenAI API, Hugging Face, Google OAuth 2.0
+### Database
 
-### 🚀 Featured Projects
+MongoDB • Mongoose
 
-* Wanderlust – Full-stack travel and booking platform
-* AI News Summarizer – AI-powered news summarization application
-* Secure Disguised Messenger – Encrypted messaging inside study notes
-* ForestAgent – Satellite image comparison tool for deforestation analysis
+### Tools & Platforms
 
-### 🏆 Achievements
+Git • GitHub • Cloudinary • Vercel • Render
 
-* 🥇 1st Place – RoboRace, SRMCEM Lucknow
-* 🥇 1st Place – Robotic Tug of War, RTU Kota
-* 🥈 2nd Place – Cozmoclench, IIT Bombay Techfest
-* 🥈 2nd Place – WebX Hackathon, GLA University
-* 🏅 4th Place – Technoxian World Robotics Championship
+### AI & Integrations
+
+OpenAI API • Gemini API • Hugging Face • Google OAuth 2.0
+
+## 🚀 Featured Projects
+
+### Wanderlust
+
+A full-stack travel and accommodation booking platform with authentication, image management, and responsive UI.
+
+### AI News Summarizer
+
+An AI-powered application that generates concise summaries of news articles using modern LLM APIs.
+
+### Secure Disguised Messenger
+
+A secure communication platform that hides encrypted messages within study notes for privacy-focused messaging.
+
+### ForestAgent
+
+An AI-assisted satellite image comparison system for identifying and analyzing deforestation patterns.
+
+## 🏆 Achievements
+
+🥇 1st Place – RoboRace, SRMCEM Lucknow
+🥇 1st Place – Robotic Tug of War, RTU Kota
+🥈 2nd Place – Cozmoclench, IIT Bombay Techfest
+🥈 2nd Place – WebX Hackathon, GLA University
+🏅 4th Place – Technoxian World Robotics Championship
