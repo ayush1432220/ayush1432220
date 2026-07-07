@@ -1,60 +1,141 @@
-# 🚀 MERN Stack Developer | React.js | Node.js | MongoDB | AI-Powered Applications
+# 👋 Hi, I'm Ayush Chaurasiya
 
-Passionate about building scalable full-stack web applications and AI-powered solutions. Experienced in developing modern web platforms using the MERN stack, integrating AI services, and creating efficient user-centric applications. Currently serving as Web Master at IEEE Student Branch MUIT and actively exploring advanced backend systems, cloud technologies, and AI integrations.
+## 🚀 Full Stack Developer | MERN Stack | Next.js | AI Integration Enthusiast
 
-* 🔭 Currently building Full-Stack MERN Applications and AI-Powered Web Solutions
-* 🌱 Currently learning System Design, Next.js, Advanced Backend Architecture, and Cloud Technologies
-* 👯 Looking to collaborate on Open Source, MERN Stack, AI, and Innovative Software Projects
-* 💬 Ask me about React.js, Node.js, Express.js, MongoDB, REST APIs, Authentication, State Management, and Full-Stack Development
-* 📫 Reach me at: **[chaurasiyavinod96@gmail.com](mailto:chaurasiyavinod96@gmail.com)**
-* 🌐 Portfolio: **ayushchaurasiyaportfolio.vercel.app**
-* 💼 LinkedIn: **Ayush Chaurasiya**
-* ⚡ Fun Fact: I enjoy building both AI-powered software solutions and robotics projects.
+I'm a B.Tech CSE graduate passionate about building scalable full-stack web applications and AI-powered solutions. I enjoy transforming ideas into real-world products by combining modern web technologies with intelligent automation.
 
-## 🛠️ Tech Stack
+Currently serving as **Web Master at IEEE Student Branch, MUIT**, I'm continuously exploring System Design, Cloud Technologies, AI integrations, and scalable backend architectures.
+
+---
+
+## 💫 About Me
+
+* 🔭 Building Full-Stack MERN & Next.js Applications
+* 🤖 Exploring AI-powered products and intelligent automation
+* 🌱 Learning System Design, Cloud Computing, DevOps, and Advanced Backend Development
+* 👯 Open to collaborating on Open Source, Full Stack, AI, and SaaS Projects
+* 💬 Ask me about React.js, Next.js, Node.js, Express.js, MongoDB, REST APIs, Authentication, and AI Integration
+* 📫 Email: **[chaurasiyavinod96@gmail.com](mailto:chaurasiyavinod96@gmail.com)**
+* 🌐 Portfolio: **https://ayushchaurasiyaportfolio.vercel.app**
+* 💼 LinkedIn: **https://www.linkedin.com/in/ayush-chaurasiya/**
+* ⚡ Fun Fact: I love building AI-powered software, automation tools, and robotics projects.
+
+---
+
+# 💻 Tech Stack
 
 ### Frontend
 
-React.js • Next.js • Redux • Zustand • Tailwind CSS • Bootstrap • TypeScript
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* TypeScript
+* Redux
+* Zustand
+* Tailwind CSS
+* Bootstrap
+* HTML5
+* CSS3
 
 ### Backend
 
-Node.js • Express.js • REST APIs • JWT Authentication
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Socket.IO
 
 ### Database
 
-MongoDB • Mongoose
-
-### Tools & Platforms
-
-Git • GitHub • Cloudinary • Vercel • Render
+* MongoDB
+* Mongoose
 
 ### AI & Integrations
 
-OpenAI API • Gemini API • Hugging Face • Google OAuth 2.0
+* OpenAI API
+* Google Gemini API
+* Hugging Face
+* Google OAuth 2.0
+* Google Analytics
 
-## 🚀 Featured Projects
+### Tools & Platforms
 
-### Wanderlust
+* Git
+* GitHub
+* Postman
+* Cloudinary
+* Vercel
+* Render
+* Netlify
 
-A full-stack travel and accommodation booking platform with authentication, image management, and responsive UI.
+---
 
-### AI News Summarizer
+# 🚀 Featured Projects
 
-An AI-powered application that generates concise summaries of news articles using modern LLM APIs.
+## 🌍 Wanderlust
 
-### Secure Disguised Messenger
+A full-stack travel and accommodation booking platform featuring secure authentication, image uploads, property listings, booking functionality, responsive UI, and cloud media management.
 
-A secure communication platform that hides encrypted messages within study notes for privacy-focused messaging.
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Cloudinary
 
-### ForestAgent
+---
 
-An AI-assisted satellite image comparison system for identifying and analyzing deforestation patterns.
+## 📰 AI News Summarizer
 
-## 🏆 Achievements
+An AI-powered news platform that fetches real-time news, generates intelligent summaries using LLMs, supports authentication, category filtering, and saved summaries.
 
-🥇 1st Place – RoboRace, SRMCEM Lucknow
-🥇 1st Place – Robotic Tug of War, RTU Kota
-🥈 2nd Place – Cozmoclench, IIT Bombay Techfest
-🥈 2nd Place – WebX Hackathon, GLA University
-🏅 4th Place – Technoxian World Robotics Championship
+**Tech Stack:** MERN • Gemini API • NewsAPI • JWT
+
+---
+
+## 🔒 Secure Disguised Messenger
+
+A secure messaging application that hides encrypted messages inside study notes with password protection, providing a privacy-focused communication experience.
+
+**Tech Stack:** React.js • Node.js • Encryption
+
+---
+
+## 🌲 ForestAgent
+
+An AI-assisted satellite image comparison platform that detects and visualizes deforestation using side-by-side image analysis and interactive visualizations.
+
+**Tech Stack:** Next.js • JavaScript • Image Processing
+
+---
+
+## 🎓 AI-Based Student Focus Level Monitoring System
+
+An AI-powered student engagement monitoring platform using Computer Vision and Machine Learning for face detection, eye tracking, blink analysis, focus prediction, and real-time analytics.
+
+**Tech Stack:** Next.js • Node.js • MongoDB • OpenCV • MediaPipe
+
+---
+
+# 🏆 Achievements
+
+🥇 1st Place — RoboRace, SRMCEM Lucknow
+
+🥇 1st Place — Robotic Tug of War, Rajasthan Technical University, Kota
+
+🥈 2nd Place — Cozmoclench, IIT Bombay Techfest
+
+🥈 2nd Place — WebX Hackathon, GLA University, Mathura
+
+🏅 4th Place — RoboRace, Technoxian World Robotics Championship
+
+---
+
+# 📈 Current Focus
+
+* Full Stack Web Development
+* AI-Powered Applications
+* SaaS Product Development
+* Cloud & DevOps
+* Backend Scalability
+* System Design
+* Open Source Contributions
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories, connect with me, or collaborate on exciting projects.*
