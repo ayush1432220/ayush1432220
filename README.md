@@ -17,7 +17,7 @@ Currently serving as **Web Master at IEEE Student Branch, MUIT**, I'm continuous
 * 💬 Ask me about React.js, Next.js, Node.js, Express.js, MongoDB, REST APIs, Authentication, and AI Integration
 * 📫 Email: **[chaurasiyavinod96@gmail.com](mailto:chaurasiyavinod96@gmail.com)**
 * 🌐 Portfolio: **https://ayushchaurasiyaportfolio.vercel.app**
-* 💼 LinkedIn: **https://www.linkedin.com/in/ayush-chaurasiya/**
+* 💼 LinkedIn: **https://www.linkedin.com/in/ayush-chaurasiya96/**
 * ⚡ Fun Fact: I love building AI-powered software, automation tools, and robotics projects.
 
 ---
