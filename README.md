@@ -53,3 +53,20 @@
 `Full Stack` · `AI Apps` · `SaaS` · `Cloud & DevOps` · `Backend Scalability` · `System Design` · `Open Source`
 
 <p align="center"><i>Keep coding. Keep growing.</i></p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ayush1432220/ayush1432220/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ayush1432220/ayush1432220/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Ayush Chaurasiya GitHub contribution snake"
+      src="https://raw.githubusercontent.com/ayush1432220/ayush1432220/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
