@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img alt="Ayush Chaurasiya — Full Stack Developer" src="./banner.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
+  <img alt="Ayush Chaurasiya — Full Stack Developer" src="./banner.svg?v=2" width="100%">
 </picture>
 
 <h1 align="center">Hi, I'm Ayush Chaurasiya 👋</h1>
